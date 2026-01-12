@@ -1,0 +1,4 @@
+FirstName,LastName,Username,OU,Group
+Owen,Smith,owens,"OU=Restricted Users,DC=lab,DC=internal",GG-Lab-Staff
+Alice,Jones,alicej,"OU=Restricted Users,DC=lab,DC=internal",GG-Lab-Staff
+Bob,Brown,bobb,"OU=Restricted Users,DC=lab,DC=internal",GG-Lab-Staff
